@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(230, 231, 157);
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+}
+.normal{
+    height: 200px;
+}

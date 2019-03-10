@@ -1,0 +1,28 @@
+body {
+background-color: yellowgreen;
+}
+header {
+    color: red;
+
+}
+h2 {
+    color: yellow;
+    font-size: 30px
+}
+.roma {
+    width: 700px;
+    height: 400px;
+    border: 3px yellow solid;
+    margin-left: 20px;
+}
+nav ul li {
+    color: black;
+    display: list;
+    margin: 20px;
+    font-size: 24px;
+}
+nav h2 ul li {
+    display: inline-block;
+    margin: 20px;
+    font-size: 24px;
+}
